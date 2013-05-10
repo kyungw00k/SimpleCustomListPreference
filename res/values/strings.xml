@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleCustomListPreference</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- for SimpleCustomListPreference class -->
+
+    <string name="list_item_title">Title</string>
+    <string name="list_item_value">Value</string>
+    <string name="list_item_title_empty">Title is empty</string>
+    <string name="list_item_value_empty">Value is empty</string>
+    <string name="list_item_delete_error">Cannot delete current item</string>
+    <string name="list_item_add">Add New Item</string>
+
+</resources>
