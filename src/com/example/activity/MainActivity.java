@@ -3,7 +3,7 @@ package com.example.activity;
 import android.os.Bundle;
 import android.view.Menu;
 
-import com.github.kyungw00k.component.android.BasePreferenceActivity;
+import com.github.kyungw00k.android.component.BasePreferenceActivity;
 
 public class MainActivity extends BasePreferenceActivity {
 
